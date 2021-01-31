@@ -1,6 +1,13 @@
 # Network-Science-with-Python-and-NetworkX-Quick-Start-Guide
 Network Science with Python and NetworkX Quick Start Guide, published by Packt
 
+
+
+Feel free to click on the following button to launch your own jupyter-based computing platform
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thousandoaks/Network-Science-with-Python-and-NetworkX-Quick-Start-Guide/master)
+
+
 <a href="https://prod.packtpub.com/in/big-data-and-business-intelligence/network-science-python-and-networkx-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789955316"><img src="https://static.packt-cdn.com/products/9781789955316/cover/smaller" alt="Network Science with Python and NetworkX Quick Start Guide" height="256px" align="right"></a>
 
 This is the code repository for [Network Science with Python and NetworkX Quick Start Guide](https://prod.packtpub.com/in/big-data-and-business-intelligence/network-science-python-and-networkx-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789955316), published by Packt.
